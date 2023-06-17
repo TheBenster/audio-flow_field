@@ -1,0 +1,16 @@
+html, body {
+    font-family: 'system-ui';
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+canvas{
+    background-color: #212121;
+    height: 70vh;
+    width: 70vw;
+    color: white;
+   
+}
